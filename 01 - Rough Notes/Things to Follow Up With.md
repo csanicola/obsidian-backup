@@ -1,0 +1,2 @@
+- [ ] continue working on W3Schools SQL tutorial
+- [ ] 
