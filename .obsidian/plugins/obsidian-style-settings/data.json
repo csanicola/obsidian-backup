@@ -1,0 +1,13 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "Plugin@@colorful-checkbox": true,
+  "Components@@colorful-folder": false,
+  "Components@@folder-font-bold": true,
+  "Components@@outline-enhanced": true,
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "Appearance-dark@@card-highlight-dark": true,
+  "Appearance-dark@@card-shadow-dark": "0px 0px 50px 2px",
+  "Appearance-dark@@accent-dark": "#00BFFF"
+}

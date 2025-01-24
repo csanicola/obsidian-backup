@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "8dfc903479309696",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d226c936d365e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e143980559042f09",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0b52f2015d76567b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/HHA_551/Midterm Review - HHA_551.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "322090f1f8102b48",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6b8f7b395e079ed",
+        "type": "tabs",
+        "dimension": 77.81926811053025,
+        "children": [
+          {
+            "id": "8859b98e0ac0aa68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eee68fc0e7b74f39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab553eb54702eb70",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "171120c18de9cb8a",
+        "type": "tabs",
+        "dimension": 22.180731889469754,
+        "children": [
+          {
+            "id": "ac462505fb48f382",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "1f31b1c971434483",
+    "type": "split",
+    "children": [
+      {
+        "id": "b52fff35f472bf64",
+        "type": "tabs",
+        "dimension": 68.4036393713813,
+        "children": [
+          {
+            "id": "5e152ec258079c14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/HHA_551/Midterm Review - HHA_551.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31daac550d61ac6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/HHA_551/Midterm Review - HHA_551.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bae9c93d575a0a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "782806a4acb7c3bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/HHA_551/Midterm Review - HHA_551.md"
+              }
+            }
+          },
+          {
+            "id": "6118a6df9f9cd4e0",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "971db546d6681f58",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f6b764ce2fb7812",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8fb9012705d9bdf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "99deca7329be8587",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "759563e7f212a92b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "50c1d8e64da7b601",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "df428f328d04f69c",
+        "type": "tabs",
+        "dimension": 31.59636062861869,
+        "children": [
+          {
+            "id": "175f15d9adbb8d25",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "janitor:Janitor: scan vault": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "0b52f2015d76567b",
+  "lastOpenFiles": [
+    "School/HHA_552/Midterm Review - HHA_552.md",
+    "Data Science/Tableau.md",
+    "School/HHA_552/Lecture Notes/1. Introduction Course.md",
+    "Home.md",
+    "School/HHA_551/Midterm Review - HHA_551(1).md",
+    "School/HHA_551/Midterm Review - HHA_551.md",
+    "School/HHA_551/Powerpoints/6. MidTermReview2023.pdf",
+    "School/HHA_550/Midterm Review - HHA_550.md",
+    "School/HHA_550/Lecture Notes/1. Introduction to Advanced Healthcare Analytics and Python.md",
+    "School/HHA_551/Lecture Notes/1. Big Data Technologies in Healthcare.md",
+    "School/HHA_550/Lecture Notes",
+    "School/HHA_551/Lecture Notes",
+    "School/HHA_552/Lecture Notes",
+    "Data Science/Intermediate Python Programming Course.md",
+    "School/HHA_550/Powerpoints/2. Session02_StonyBrook_HHA550.pdf",
+    "School/HHA_550/Powerpoints/1. Session01_StonyBrook_HHA550.pdf",
+    "School/HHA_550/Powerpoints/6. Session06_StonyBrook_HHA550 - Tagged.pdf",
+    "School/HHA_550/Lecture Notes/6. Understanding Healthcare Data, the ETL Process and Data Cleansing.md",
+    "School/HHA_551/Lecture Notes/6. Midterm Review.md",
+    "School/HHA_550/Lecture Notes/5. How to Run a Data EngineeringData Scientist Project.md",
+    "School/HHA_550/Lecture Notes/4. Data Operations.md",
+    "School/HHA_550/Lecture Notes/3. Working in Data Environments.md",
+    "School/HHA_550/Lecture Notes/2. Python - Basics to Advanced.md",
+    "School/School - Spring 2023.md",
+    "School/HHA_551/Lecture Notes/3. Big Data Technologies in Healthcare.md",
+    "Data Science/Data Science from Scratch.md",
+    "Data Science/Statistics - A Full University Course on Data Science Basics.md",
+    "Tracking/Reading.md",
+    "Tracking/Read Books.md",
+    "Authors/Chuck Palahniuk.md",
+    "Authors/Lemony Snicket.md",
+    "Authors/Akira Toriyama.md",
+    "Authors/Masashi Kishimoto.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "accentColor": "#167ca4",
+  "cssTheme": "Border",
+  "translucency": true,
+  "baseFontSize": 16,
+  "textFontFamily": "Apple Braille",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Daily Note Themes",
+    "CyanVoxel's General Tweaks",
+    "Notebook Backgrounds",
+    "Colored Sidebar Items",
+    "card-shadow"
+  ],
+  "interfaceFontFamily": "Apple Braille",
+  "monospaceFontFamily": "Apple Braille",
+  "baseFontSizeAction": false
+}

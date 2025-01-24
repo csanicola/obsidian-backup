@@ -1,0 +1,354 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "0ce076059a3e16af",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "b750cc965157bf59",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "06 - Main Notes/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          },
+          {
+            "id": "c16e364dfa6aecb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Main Notes/02 - Projects/Sample of Skills GitHub.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample of Skills GitHub"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "322090f1f8102b48",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6b8f7b395e079ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee68fc0e7b74f39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b999d0ce95b9c06e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "26f7debb4a565128",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5343fdce57a52e87",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "1f31b1c971434483",
+    "type": "split",
+    "children": [
+      {
+        "id": "b52fff35f472bf64",
+        "type": "tabs",
+        "dimension": 65.21317829457365,
+        "children": [
+          {
+            "id": "782806a4acb7c3bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06 - Main Notes/02 - Projects/Sample of Skills GitHub.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sample of Skills GitHub"
+            }
+          },
+          {
+            "id": "9bae9c93d575a0a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b25ce0a5cb619d0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "05 - Template/Tableau Dashboard Documentation Template.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Tableau Dashboard Documentation Template"
+            }
+          },
+          {
+            "id": "5e152ec258079c14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 - Main Notes/02 - Projects/Sample of Skills GitHub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sample of Skills GitHub"
+            }
+          },
+          {
+            "id": "31daac550d61ac6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 - Main Notes/03 - Daily Note/2024.10.29.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024.10.29"
+            }
+          },
+          {
+            "id": "dfc9ad3a12dff7cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bb9867edd1d956a2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dce4be6cb8de6e75",
+        "type": "tabs",
+        "dimension": 34.786821705426355,
+        "children": [
+          {
+            "id": "de1fd26e660f4aaf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "c16e364dfa6aecb2",
+  "lastOpenFiles": [
+    "06 - Main Notes/02 - Projects/Bariatric Performance Dashboard.md",
+    "06 - Main Notes/02 - Projects/Sample of Skills GitHub.md",
+    "06 - Main Notes/02 - Projects/REDCap Bariatric Patient Tracker.md",
+    "05 - Template/Work Project Template.md",
+    "06 - Main Notes/02 - Projects/REDCap Post-Bariatric Surgery Follow Up Capture Questionnaire.md",
+    "06 - Main Notes/02 - Projects/Transplant List.md",
+    "06 - Main Notes/02 - Projects/GERD Study - PI Ila Sethi.md",
+    "06 - Main Notes/03 - Daily Note/2024.10.30.md",
+    "06 - Main Notes/03 - Daily Note/2024.10.17.md",
+    "06 - Main Notes/03 - Daily Note/2024.06.21.md",
+    "Tasks.md",
+    "06 - Main Notes/03 - Daily Note/2024-10-30.md",
+    "06 - Main Notes/03 - Daily Note/2023.01.20.md",
+    "06 - Main Notes/03 - Daily Note/Invalid date.md",
+    "06 - Main Notes/Untitled Kanban 1.md",
+    "06 - Main Notes/Untitled Kanban.md",
+    "01 - Rough Notes/Meeting 10.25.24.md",
+    "Home.md",
+    "03 - Tags/meetings.md",
+    "03 - Tags/sql.md",
+    "03 - Tags/python.md",
+    "03 - Tags/daily.md",
+    "07 - Personal/Gift Ideas.md",
+    "05 - Template/(TEMPLATE) Daily.md",
+    "05 - Template/Default Note.md",
+    "06 - Main Notes/03 - Daily Note/2024.10.29.md",
+    "07 - Personal/01 - Learn",
+    "07 - Personal/00 - Safety Box",
+    "07 - Personal",
+    "Untitled.canvas",
+    "06 - Main Notes/03 - Daily Note",
+    "02 - Source Material/Videos",
+    "02 - Source Material/Helpful Websites and Apps",
+    "02 - Source Material/GitHub Repos",
+    "06 - Main Notes/01 - Training Courses",
+    "99 - Archived",
+    "06 - Main Notes/02 - Projects"
+  ]
+}

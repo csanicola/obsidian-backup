@@ -1,0 +1,14 @@
+{
+  "showFrontmatter": true,
+  "showLineNumber": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01 - Rough Notes",
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "spellcheck": true,
+  "autoPairBrackets": true,
+  "livePreview": true,
+  "showUnsupportedFiles": true
+}

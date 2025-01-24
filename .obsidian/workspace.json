@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "ceddb0090a01b183",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0a0e13599ec3b8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccc1499d7138ac69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Source Material/Books/R for Data Science (2e).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "R for Data Science (2e)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e8922749b105dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "23c0a2554843f592",
+        "type": "tabs",
+        "dimension": 81.7982456140351,
+        "children": [
+          {
+            "id": "10cf95e9ffd013a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0d97d85363b690c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1477a97b774796a",
+        "type": "tabs",
+        "dimension": 18.201754385964914,
+        "children": [
+          {
+            "id": "c4df93dcf858c512",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "efef63c1dcf25f66",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf2841800ff33a0",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "fffda071e0050cd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - Source Material/Books/R for Data Science (2e).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of R for Data Science (2e)"
+            }
+          },
+          {
+            "id": "e78c3c364546168e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Source Material/Books/R for Data Science (2e).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for R for Data Science (2e)"
+            }
+          },
+          {
+            "id": "0d3f6857aaa8c37f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Source Material/Books/R for Data Science (2e).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from R for Data Science (2e)"
+            }
+          },
+          {
+            "id": "a8c6e4c141d7d8aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a80328a556b5f522",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a8cc23cf3ee8af0a",
+        "type": "tabs",
+        "dimension": 42.76315789473684,
+        "children": [
+          {
+            "id": "5b5e6ec81f213857",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ab754a5417842576",
+        "type": "tabs",
+        "dimension": 23.903508771929825,
+        "children": [
+          {
+            "id": "1edcdb43880343c3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-projects:Open projects": false,
+      "pomodoro-timer:Toggle timer panel": false
+    }
+  },
+  "active": "ccc1499d7138ac69",
+  "lastOpenFiles": [
+    "Tasks.md",
+    "07 - Personal/01 - Learn/00 - Personal Learning Overview.md",
+    "05 - Template/Daily Template.md",
+    "04 - Indexes/Paper Index.md",
+    "04 - Indexes/Project Index.md",
+    "04 - Indexes/Topic Index.md",
+    "04 - Indexes/GitHub Index.md",
+    "04 - Indexes/Data Science Index.md",
+    "03 - Tags/daily.md",
+    "03 - Tags/books.md",
+    "Home.md",
+    "06 - Main Notes/03 - Daily Note/2025.01.24.md",
+    "06 - Main Notes/03 - Daily Note/2025.01.23.md"
+  ]
+}

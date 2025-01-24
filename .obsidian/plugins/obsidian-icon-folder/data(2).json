@@ -1,0 +1,70 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiForkKnife",
+      "LiShoppingBag",
+      "LiCircleDollarSign",
+      "❗",
+      "LiArchive"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "01 - Rough Notes": "LiPanelBottomInactive",
+  "02 - Source Material": "LiAlbum",
+  "03 - Tags": "LiHash",
+  "05 - Template": "LiLayoutTemplate",
+  "06 - Main Notes": "LiActivitySquare",
+  "02 - Source Material/Articles": "LiBookA",
+  "02 - Source Material/Books": "LiBook",
+  "02 - Source Material/Papers": "LiNewspaper",
+  "02 - Source Material/Other": "LiBookOpen",
+  "04 - Indexes": "LiListTree",
+  "02 - Source Material/GitHub Repos": "LiCode2",
+  "02 - Source Material/Helpful Websites and Apps": "LiAppWindow",
+  "02 - Source Material/Videos": "LiVideo",
+  "Home.md": {
+    "iconName": "LiHome",
+    "iconColor": "#5ed8e8"
+  },
+  "Tasks.md": {
+    "iconName": "LiCheckSquare",
+    "iconColor": "#17a633"
+  },
+  "07 - Personal/House Plans.md": "LiHousePlus",
+  "07 - Personal/Gift Ideas.md": "LiGift",
+  "07 - Personal/Recipes.md": "LiForkKnife",
+  "07 - Personal/02 - Books/1000 Books to Read Before You Die.md": "LiBookOpenCheck",
+  "02 - Source Material/Images": "LiImages",
+  "07 - Personal": "LiLockKeyhole",
+  "08 - Research": "LiSquareDashedKanban",
+  "09 - Clippings": "LiScissors",
+  "99 - Archived": "LiArchive",
+  "Where Everything Is Located and Managed.md": "❗",
+  "07 - Personal/Finances.md": "LiCircleDollarSign",
+  "07 - Personal/Things Want To Buy.md": "LiShoppingBag"
+}

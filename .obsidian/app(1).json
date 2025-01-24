@@ -1,0 +1,13 @@
+{
+  "showFrontmatter": true,
+  "showLineNumber": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "06 - Main Notes",
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "spellcheck": true,
+  "autoPairBrackets": true,
+  "livePreview": true
+}

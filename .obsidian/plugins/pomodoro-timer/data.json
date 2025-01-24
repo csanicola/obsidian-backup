@@ -1,0 +1,19 @@
+{
+  "workLen": 30,
+  "breakLen": 5,
+  "autostart": false,
+  "useStatusBarTimer": true,
+  "notificationSound": true,
+  "customSound": "",
+  "showTaskProgress": true,
+  "enableTaskTracking": true,
+  "logFile": "DAILY",
+  "logFocused": false,
+  "logPath": "",
+  "logLevel": "ALL",
+  "logTemplate": "",
+  "logFormat": "VERBOSE",
+  "useSystemNotification": false,
+  "taskFormat": "TASKS",
+  "lowFps": false
+}

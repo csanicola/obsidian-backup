@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "06 - Main Notes/02 - Projects",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "includeFields": [
+              "status"
+            ],
+            "headerField": "name",
+            "groupByField": "page-tags"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2de42608-1130-424c-87db-c3157aa5df44",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "99f8ddcc-97ce-4ae8-b633-d772b337b92f",
+      "name": "Projects"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "monday"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

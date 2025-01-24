@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "1acc8d9c533cfb4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "89de5bdf67c0610c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "337ebba24088b385",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4540aa5df3cfbf41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/HHA_551/Midterm Review - HHA_551.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36c7ba4d4b56409c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f902558d8163c65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bf85c87157fe2f5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f7f9acf74607bf7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e5d1b7eb0845f88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7759f4088b4f4b2f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "e06722c9eb004d6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "51c4538c9dc55a44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d4bfca6916cfe1d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea84bdc127f95694",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/HHA_551/Midterm Review - HHA_551.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b30b3847f0456b89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/HHA_551/Midterm Review - HHA_551.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0972121be4c9a600",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65b94d7bc87d5635",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/HHA_551/Midterm Review - HHA_551.md"
+              }
+            }
+          },
+          {
+            "id": "dbdc16eae526c95f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5b1c029e6b015bd",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f929818ec04d908",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "afb3fb4a107f427c",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "3166dd1709e70014",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "ffe5fd4810b7eada",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "janitor:Janitor: scan vault": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes": false,
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "7f7f9acf74607bf7",
+  "lastOpenFiles": [
+    "Home.md"
+  ]
+}
